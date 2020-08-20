@@ -1,6 +1,6 @@
 1. Mulai
 2. Buat arrow function divideAndSort dengan parameter masukanAngka
-3. Didalam function tersebut buatlah const a yang berisi function toFixed untuk merubah integer jadi string 
+3. Didalam function tersebut buatlah const a yang berisi function toString untuk merubah integer jadi string 
     dan function split untuk memisahkan 0 dari parameter masukanAngka
 4. Kemudian, buatlah const b yang me-mapping variable a yang disetiap elementnya menggunakan 
     function split dengan dua petik tanpa isi kemudian gunakan function sort untuk mengurutkan urutan 
